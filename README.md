@@ -7,8 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Author Mahbub
+Hey! myself mahbub. I have been 1 years experience on php and laravel and 4 years experience on WordPress Theme Development and 2 Years experience on WordPress Plugin Development. I know PHP, Laravel, WordPress Theme Development and Plugin Development, Javascript, React and also Design related skills like Html, css, bootstrap and sass.
 ## About Laravel
-Author Mahbub
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
